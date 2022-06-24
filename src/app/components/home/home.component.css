@@ -1,0 +1,15 @@
+.colordetails{
+    font-family: 'Anek Latin', sans-serif;
+    width: 35%;
+    margin: 0 auto;
+}
+.colordetails>h2{
+    font-weight: 200;
+    text-align: center;
+}
+.colordetails>p{
+    text-align: center;
+    height: 35px;
+    padding-top: 12px;
+    color:white;
+}
